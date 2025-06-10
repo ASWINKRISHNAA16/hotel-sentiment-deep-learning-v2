@@ -1,0 +1,35 @@
+
+---
+
+### ✅ `.gitignore`
+
+```gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Trained models and preprocessors
+*.h5
+*.pkl
+
+# Streamlit logs
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
