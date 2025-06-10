@@ -1,0 +1,24 @@
+# Ignore virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter and IDE files
+*.ipynb_checkpoints/
+.idea/
+.vscode/
+
+# Model and data files
+*.h5
+*.pkl
+*.joblib
+*.csv
+*.jpeg
+*.jpg
+*.png
